@@ -1,6 +1,8 @@
-# Meditation
+  Project Title: # Meditation
 
-###### Purpose:
-    Conunt down timer for meditaion with background sounds
+Technology Stack: HTML, CSS, and Javascript
 
-#### Dear Students, Check out the live app [here](http://203.193.173.125/buildriseshine/javascript/meditation/).
+Brief of the project:  Count down timer for meditation with background sounds
+
+
+####, Check out the live app [here]( https://ram-brs.github.io/meditation/).
