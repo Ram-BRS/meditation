@@ -17,6 +17,10 @@ body {
     padding: 0;
 }
 
+.meditation {
+    text-align: center;
+}
+
 #map {
     height: 60vh;
     width: 100vw;
